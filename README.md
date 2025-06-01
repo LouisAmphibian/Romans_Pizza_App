@@ -65,20 +65,6 @@ The **Roman's Pizza Ordering & Delivery App** is a modern, responsive, and user-
 
 ---
 
-## 🚀 Project Milestones
-
-| Milestone                       | Status       |
-|--------------------------------|--------------|
-| Team Formation                 | ✅ Complete  |
-| Requirements & Planning        | ✅ Complete  |
-| Design & Prototyping           | ✅ Complete  |
-| Core System Development        | ✅ Complete  |
-| Gamification & Tracking        | ✅ Complete  |
-| Testing & Debugging            | ✅ Complete  |
-| Final Deployment               | ✅ Complete  |
-
----
-
 ## 🎯 Business Value
 
 - **Improved customer experience** through delivery tracking and customization
@@ -104,13 +90,6 @@ The **Roman's Pizza Ordering & Delivery App** is a modern, responsive, and user-
 - Statista (2023). Online Food Delivery. [statista.com](https://www.statista.com)  
 - YouTube (2025). *PERT Chart Tutorial*. [Watch Video](https://youtu.be/6S6zfbq2vcE)
 
----
-
-## 📅 Meetings Logged
-
-- 06 March 2025  
-- 10 March 2025  
-- 11 March 2025  
 
 ---
 
